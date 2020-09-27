@@ -1,0 +1,79 @@
+{
+  "name": "Status",
+  "temp": "",
+  "event-type": "1",
+  "_id": "TPUXu",
+  "actions": [
+    {
+      "activity": "1",
+      "nameText": "your message here",
+      "url": "",
+      "stat": "0",
+      "name": "Set Bot Activity"
+    },
+    {
+      "time": "14",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "activity": "0",
+      "nameText": "your message here",
+      "url": "",
+      "stat": "0",
+      "name": "Set Bot Activity"
+    },
+    {
+      "time": "14",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "activity": "0",
+      "nameText": "your message here",
+      "url": "",
+      "stat": "3",
+      "name": "Set Bot Activity"
+    },
+    {
+      "time": "14",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "activity": "2",
+      "nameText": "your message here!",
+      "url": "",
+      "stat": "3",
+      "name": "Set Bot Activity"
+    },
+    {
+      "time": "14",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "activity": "0",
+      "nameText": "your message here",
+      "url": "",
+      "stat": "3",
+      "name": "Set Bot Activity"
+    },
+    {
+      "time": "14",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "activity": "2",
+      "nameText": "your message here",
+      "url": "",
+      "stat": "3",
+      "name": "Set Bot Activity"
+    },
+    {
+      "call": "1",
+      "name": "Jump to Action"
+    }
+  ]
+}
